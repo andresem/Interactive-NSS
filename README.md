@@ -7,7 +7,7 @@ A little graphical user interface that allow to see how change the Nelson-Siegel
 * scipy
 * sklearn
 
-To run the interactive code you must run in terminal:
+To execute the interactive code you must run in terminal:
 ```
 !bokeh serve --show nelson_siegel_interactive.py
 ```
