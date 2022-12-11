@@ -1,5 +1,5 @@
 # Interactive-NSS
-A little graphical user interface that allow to see how change the Nelson-Siegel-Svensson fitted curve adjusting the model parameters.
+A small graphical user interface that allows you to see how the fitted Nelson-Siegel-Svensson curve changes as you adjust the model parameters
 
 ## Requirements
 * bokeh
